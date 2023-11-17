@@ -1,0 +1,17 @@
+
+body {
+    padding: 10px;
+    margin: 0;
+}
+
+.activeRow {
+    background-color: antiquewhite;
+}
+
+#main-container tr td {
+    cursor: pointer;
+}
+
+#main-container tr:hover {
+    background-color: lightgray;
+}
